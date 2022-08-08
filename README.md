@@ -3,3 +3,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash Halwai</h1>
 
 <h3 align="center">I'm a passionate Frontend Developer from India.</h3>
+
+<br>
+
+## 🙋‍♂️ About Me
+
+
+- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/YashHalwai/Data-Structures-Algorithms)**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **halwaiyash45@gmail.com**
+
+- ⚡ Fun fact **I play cricket and go to the GYM very often.**
