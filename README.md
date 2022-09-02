@@ -37,3 +37,16 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/yash-halwai-198007203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/YashHalwai45"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/halwai_y_a_s_h_131/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCXUUWVgcV-aXdliKwBkrDjQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+<br>
