@@ -15,7 +15,7 @@
 
 - 🔍 Research Area **Web Technologies, Data Science and [Machine Learning](https://drive.google.com/file/d/1lCWImXMwa68et6tT4w1NZMETTjElpe-S/view?usp=sharing)**
 
-- 🔭 College Real Time Project **[Laboratory Management System](https://yashhalwai.github.io/Ystore-Ecommerce-Website/)**
+- 🔭 College Real Time Project **[Laboratory Management System](https://github.com/YashHalwai/Laboratory-Management-System)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<!-- ### Show some ❤️ by starring some of the repositories! -->
+### Show some ❤️ by starring some of the repositories!
 
 </div>
 
