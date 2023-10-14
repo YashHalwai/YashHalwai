@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px">, I'm Yash Halwai</h1>
-<h3 align="center">I'm a passionate Computer Science Engineer from India.</h3>
+
+<h3 align="center">I'm a passionate Computer Engineer from India.</h3>
 
 <br>
 
@@ -56,7 +57,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/YashHalwai/github-readme-stats"><img alt="Yash Halwai Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashHalwai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!-- <a href="https://github.com/YashHalwai/github-readme-stats"><img alt="Yash Halwai Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashHalwai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <a href="https://github.com/YashHalwai/github-readme-stats"><img alt="Yash Halwai Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashHalwai&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>
@@ -70,8 +71,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
----
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 ## Connect with me:
 <p align="left">
